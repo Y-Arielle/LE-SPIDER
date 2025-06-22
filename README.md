@@ -24,4 +24,4 @@ Au début :
 🃏please input your action: 1: move; 2: get chance cards; 3: undo last move; 4: suggest move; 5: quit game  
 
 ## Les fonctions et variables
-![fonctions et variables]("images/fonctions et variables.png")
+![fonctions_variables]("images/fonctions et variables.png")
